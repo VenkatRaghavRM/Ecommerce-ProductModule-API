@@ -1,4 +1,4 @@
-product Module API is built on ASP.net 5 and Entity framework Core
+product Module API is built on .net 5 and Entity framework Core
 
 Unit Test Frameworks Used : Xunit and Moq
 
