@@ -1,0 +1,145 @@
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\CoverletSourceRootsMapping
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\testhost.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Inventory Management.Server.deps.json
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Inventory Management.Server.runtimeconfig.json
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Inventory Management.Server.runtimeconfig.dev.json
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\appsettings.Development.json
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\appsettings.json
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Inventory Management.Server.exe
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\testhost.exe
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Inventory Management.Server.Tests.deps.json
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Inventory Management.Server.Tests.runtimeconfig.json
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Inventory Management.Server.Tests.runtimeconfig.dev.json
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Inventory Management.Server.Tests.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\ref\Inventory Management.Server.Tests.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Inventory Management.Server.Tests.pdb
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\AutoMapper.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Castle.Core.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Moq.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\xunit.abstractions.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\xunit.assert.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\xunit.core.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\xunit.execution.dotnet.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Inventory Management.Server.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\bin\Debug\net5.0\Inventory Management.Server.pdb
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\obj\Debug\net5.0\Inventory Management.Server.Tests.csproj.AssemblyReference.cache
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\obj\Debug\net5.0\Inventory Management.Server.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\obj\Debug\net5.0\Inventory Management.Server.Tests.AssemblyInfoInputs.cache
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\obj\Debug\net5.0\Inventory Management.Server.Tests.AssemblyInfo.cs
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\obj\Debug\net5.0\Inventory Management.Server.Tests.csproj.CoreCompileInputs.cache
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\obj\Debug\net5.0\Inventory Management.Server.Tests.csproj.CopyComplete
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\obj\Debug\net5.0\Inventory Management.Server.Tests.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\obj\Debug\net5.0\ref\Inventory Management.Server.Tests.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\obj\Debug\net5.0\Inventory Management.Server.Tests.pdb
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server.Tests\obj\Debug\net5.0\Inventory Management.Server.Tests.genruntimeconfig.cache

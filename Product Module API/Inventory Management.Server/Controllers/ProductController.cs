@@ -68,10 +68,9 @@ namespace Inventory_Management.Server.Controllers
             try
             {
                 if (!ModelState.IsValid) return BadRequest();
-                if (!ModelState.IsValid) return BadRequest();
                 var productTocreate = _mapper.Map<Product>(productModel);
                 var result = await _repository.AddProductAsync(productTocreate);
-                return result;
+                return Ok(result);
             }
             catch (DbUpdateConcurrencyException)
             {
@@ -117,14 +116,14 @@ namespace Inventory_Management.Server.Controllers
                 var itemToUpdate = await _repository.GetProductByIDAsync(changesItem.Id);
                 if (itemToUpdate == null) return NotFound("InvalidId");
                 var result =await _repository.UpdateProductAsync(changesItem);
-                return result;
+                return Ok(result);
 
             }
             catch (DbUpdateConcurrencyException)
             {
                 return StatusCode(StatusCodes.Status500InternalServerError, "Database Failure");
             }
-            catch (Exception ex)
+            catch (Exception)
             {
 
                 return StatusCode(StatusCodes.Status500InternalServerError, "Cannot Update product");
