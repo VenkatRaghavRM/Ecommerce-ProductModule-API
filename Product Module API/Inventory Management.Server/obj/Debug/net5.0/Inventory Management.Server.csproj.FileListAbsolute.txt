@@ -1,0 +1,62 @@
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\appsettings.Development.json
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\appsettings.json
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\Inventory Management.Server.exe
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\Inventory Management.Server.deps.json
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\Inventory Management.Server.runtimeconfig.json
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\Inventory Management.Server.runtimeconfig.dev.json
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\Inventory Management.Server.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\ref\Inventory Management.Server.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\Inventory Management.Server.pdb
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\AutoMapper.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\Humanizer.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\obj\Debug\net5.0\Inventory Management.Server.csproj.AssemblyReference.cache
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\obj\Debug\net5.0\Inventory Management.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\obj\Debug\net5.0\Inventory Management.Server.AssemblyInfoInputs.cache
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\obj\Debug\net5.0\Inventory Management.Server.AssemblyInfo.cs
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\obj\Debug\net5.0\Inventory Management.Server.csproj.CoreCompileInputs.cache
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\obj\Debug\net5.0\Inventory Management.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\obj\Debug\net5.0\Inventory Management.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\obj\Debug\net5.0\staticwebassets\Inventory Management.Server.StaticWebAssets.Manifest.cache
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\obj\Debug\net5.0\staticwebassets\Inventory Management.Server.StaticWebAssets.xml
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\obj\Debug\net5.0\scopedcss\bundle\Inventory Management.Server.styles.css
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\obj\Debug\net5.0\Inventory Management.Server.RazorTargetAssemblyInfo.cache
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\obj\Debug\net5.0\Inventory Management.Server.csproj.CopyComplete
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\obj\Debug\net5.0\Inventory Management.Server.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\obj\Debug\net5.0\ref\Inventory Management.Server.dll
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\obj\Debug\net5.0\Inventory Management.Server.pdb
+D:\Think bridge\Ecommerce-ProductModule-API\Product Module API\Inventory Management.Server\obj\Debug\net5.0\Inventory Management.Server.genruntimeconfig.cache
