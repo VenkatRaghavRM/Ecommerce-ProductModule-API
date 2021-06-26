@@ -14,6 +14,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using AutoMapper;
+using Inventory_Management.Server.APIHealthCheck;
 
 namespace Inventory_Management.Server
 {
@@ -31,6 +32,7 @@ namespace Inventory_Management.Server
         {
             services.AddDbContextPool<InventoryDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("InventoryDbConnection")));
             services.AddScoped<IProductRepository, ProductRepository>();
+            services.AddHealthChecks().AddCheck<CustomHealthCheck>("CustomHealthCheck");
             // Auto Mapper Configurations
             var mapperConfig = new MapperConfiguration(mc =>
             {
@@ -66,6 +68,7 @@ namespace Inventory_Management.Server
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+                endpoints.MapHealthChecks("healthcheck");
             });
         }
     }
